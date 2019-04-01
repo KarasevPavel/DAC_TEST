@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:18:35 On 02.04.2019
+
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Schematic Document [DAC_TEST.SchDoc]
+   Generated File[DAC_TEST.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:18:36 On 02.04.2019
